@@ -3,9 +3,6 @@ AWS Lambda is a serverless computing service provided by Amazon to reduce the co
 
 AWS Lambda lets you run code without provisioning or managing servers—it scales automatically and only charges for the time your code is running
 
-## Spring Cloud Function : 
-https://www.youtube.com/watch?v=euLs1SbYKzE&t=807s
-
 
 ## Dependency (Required)
 
