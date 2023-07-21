@@ -61,4 +61,3 @@ AWS Lambda lets you run code without provisioning or managing servers—it scale
 ```
 
 # aws-lambda-springboot
-# aws-lambda-springboot
